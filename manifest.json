@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Nature Wallpapers HD Tab",
-  "version": "0.1",
+  "version": "1.0",
   "author": "Ray C",
   "description": "Praise nature every time you open a new tab",
   "chrome_url_overrides": {
