@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Nature Wallpaper Tab",
+  "version": "0.1",
+  "author": "Ray C",
+  "description": "Praise nature every time you open a new tab",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
